@@ -5,8 +5,15 @@ In this notebook we will
 * Look at data to answer common Corona questions
 * Combine and celebrate Open Data from different sources
 * Analyze the data according to the CRISP-DM process
+    * Business Understanding
+    * Data Understanding
+    * Prepare Data
+    * Data Modeling
+    * Evaluate the Results
 
 This project was heavily motivated by the project at https://github.com/ard-data/2020-rki-archive.
+
+You can find a blog post discussing the results on [Medium](https://davidweisspost.medium.com/a-data-perspective-on-three-common-corona-questions-5f6ec7959477).
 
 ---
 
